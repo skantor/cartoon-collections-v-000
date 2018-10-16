@@ -30,5 +30,6 @@ def find_the_cheese(arg)# code an argument here
     if cheese_types.include?(food)
       return food
     end
+  final
   end
 end
