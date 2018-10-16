@@ -26,7 +26,7 @@ def find_the_cheese(arg)# code an argument here
   # the array below is here to help
   cheese_types = ["cheddar", "gouda", "camembert"]
   arg.each do |food|
-    if not_included = []
+    if 
       nil
     else 
       arg[not_included
